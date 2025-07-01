@@ -22,7 +22,7 @@ This project presents a real-world business problem solved using operations rese
 
 The business seeks to maximize monthly profit by determining the optimal quantity of each product to produce or sell, considering:
 
-Limited resources (e.g., labor, raw materials, storage)
+Limited resources (e.g. labor, raw materials, storage)
 
 Product-specific profitability
 
@@ -56,11 +56,11 @@ Extract relevant metrics for modeling
 
 Linear Programming Model with PuLP
 
-Define decision variables (e.g., product quantities)
+Define decision variables (e.g. product quantities)
 
 Formulate the objective function (maximize total profit)
 
-Add constraints (e.g., resource limitations, max/min sales limits)
+Add constraints (e.g. resource limitations, max or min sales limits)
 
 # Model Execution and Solver Output
 
